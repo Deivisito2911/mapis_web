@@ -27,7 +27,7 @@ const ACTIVIDADES = [
         name: "MAPIS ROBOTIC TEAM",
         category: "Ciencia",
         description: "Programación y construcción con LEGO y Arduino. Nuestro equipo ha sido galardonado a nivel nacional, demostrando que la ingeniería y la creatividad van de la mano.",
-        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1769690548/Mapis_Robotic_Team_2_zhnoor.png",
+        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1782932681/IMG_20260523_130557_488_n3tbfk.jpg",
         iconImage: "https://res.cloudinary.com/dnwyno39r/image/upload/v1771538496/robotica_e017xw.jpg",
     },
     {

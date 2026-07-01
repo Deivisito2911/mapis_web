@@ -11,7 +11,7 @@ const EVENTS = [
         title: "Mapis Robotic Team: 3er Lugar Nacional",
         category: "Robótica",
         date: "Ene 2025",
-        image: "/kids-learning.jpg", 
+        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1782932329/IMG-20260531-WA0107_gfp8lf.jpg", 
         description: "3er Lugar en la Categoría Aventura, Sigue Líneas en la Final Nacional de Robótica Creativa.",
         fullDescription: "Recordamos la exitosa participación del Mapis Robotic Team en la final nacional de la Olimpiada de Robótica Creativa, organizada por el Ministerio de Ciencia y Tecnología (MinCyT), logrando el 🥉 tercer lugar en la Categoría Aventura, Sigue Líneas. ¡Ustedes son un orgullo para nuestro colegio y el estado Nueva Esparta! #somosmapis #orgullomapis #innovacioneducativa",
         instagramUrl: "https://www.instagram.com/reel/DOeW7J9jwTE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
@@ -19,7 +19,7 @@ const EVENTS = [
         title: "Concierto navidad",
         category: "Cultura",
         date: "Dic 2024",
-        image: "/happy-students-in-school-uniforms-studying.jpg", 
+        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1782932450/Screenshot_2026-07-01_150030_zc9ooq.png", 
         description: "Una noche mágica llena de música, teatro y tradiciones navideñas.",
         fullDescription: "Nuestro tradicional encendido de luces estuvo acompañado por el coro de voces blancas y la obra de teatro 'Navidad en Margarita', escrita y dirigida por nuestros docentes de cultura. Más de 500 padres asistieron al evento.",
         instagramUrl: "https://instagram.com/colegiomapis"
@@ -28,7 +28,7 @@ const EVENTS = [
         title: "Feria Científica 2024",
         category: "Académico",
         date: "15 Nov, 2024",
-        image: "/kids-learning.jpg", 
+        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1782932507/Screenshot_2026-07-01_150131_w2vybg.png", 
         description: "Nuestros estudiantes presentaron proyectos innovadores de robótica y ecología.",
         fullDescription: "La Feria Científica de este año rompió récords de participación. Desde robots hechos con material reciclado hasta soluciones de energía solar, nuestros alumnos de Primaria y Bachillerato demostraron que el futuro está en buenas manos. El jurado estuvo compuesto por ingenieros de la UDO y Unimar.",
         instagramUrl: "https://instagram.com/colegiomapis"
@@ -37,7 +37,7 @@ const EVENTS = [
         title: "Campeones Estadales de Futsal",
         category: "Deporte",
         date: "20 Oct, 2024",
-        image: "/school-building-architecture-modern.jpg",
+        image: "https://res.cloudinary.com/dnwyno39r/image/upload/v1782932572/Screenshot_2026-07-01_150240_meuqjf.png",
         description: "La selección Sub-15 trajo la copa a casa tras una final emocionante.",
         fullDescription: "En un partido cardíaco contra el Colegio Guayamurí, nuestra selección Sub-15 se impuso 3-2 en los penales. Este triunfo nos clasifica directamente a los nacionales escolares. ¡Orgullo MAPIS!",
         instagramUrl: "https://instagram.com/colegiomapis"
