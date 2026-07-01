@@ -158,12 +158,12 @@ export default function RootLayout({
         
         {/* Envolvemos en Template para la animación de transición */}
         <Template>
-            <MaintenanceGate>
+            {/* <MaintenanceGate>*/}
               <Navbar />
               <AnnouncementBar />
               <main className="flex-grow">{children}</main>
               <Footer />
-            </MaintenanceGate>
+            {/* </MaintenanceGate>*/}
         </Template>
         <Analytics />
       </body>
